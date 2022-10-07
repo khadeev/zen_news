@@ -6,11 +6,11 @@ The goal of the project is to analyze the main news of the Zen portal using web 
 
 Project progress:
 
-•	to collect links from the "Now in the media" section,
-•	to parse news texts,
-•	to process texts,
-•	to visualize results,
-•	to conclude.
+- to collect links from the "Now in the media" section,
+- to parse news texts,
+- to process texts,
+- to visualize results,
+- to conclude.
 
 Libraries used: selenium, BeautifulSoup, requests, re, nltk, spacy, wordcloud, matplotlib.
 
