@@ -15,3 +15,5 @@ Project progress:
 Libraries used: selenium, BeautifulSoup, requests, re, nltk, spacy, wordcloud, matplotlib.
 
 Keywords: web scraping, parsing, natural language processing, word cloud.
+
+Project status: completed.
